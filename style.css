@@ -1,0 +1,15 @@
+.calculator{
+    border: 2px solid skyblue;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    flex-direction: column;
+    margin: 0 auto;
+}
+#table tr button{
+    width: 50px;
+    color: tomato;
+    border: 2px solid black;
+}
